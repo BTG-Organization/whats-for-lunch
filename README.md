@@ -1,2 +1,2 @@
 # whats-for-lunch
-What's for lunch React app
+An internal app for looking up what's for lunch
