@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6428b2bb.css",
+    "main.js": "/static/js/main.fd62ad27.js",
+    "static/media/wfl_unsplash_desktop_edit_louis_hansel.jpg": "/static/media/wfl_unsplash_desktop_edit_louis_hansel.ee3ab8f9b9f07c3de218.jpg",
+    "static/media/blaze_logo.png": "/static/media/blaze_logo.7fde75d9ec535d3c00ad.png",
+    "static/media/panera_logo.png": "/static/media/panera_logo.da7ff5e1c2eaa652bc9f.png",
+    "static/media/hansel.jpg": "/static/media/hansel.2855446f28b199de4016.jpg",
+    "static/media/chipotle_logo_small.png": "/static/media/chipotle_logo_small.58a044e613f8ac32dd47.png",
+    "static/media/wfl_yellow_peak.png": "/static/media/wfl_yellow_peak.a26729331bafb5744c2b.png",
+    "static/media/stickies_logo.png": "/static/media/stickies_logo.907a5266864aac415a3b.png",
+    "static/media/cava_logo.png": "/static/media/cava_logo.9986d008f549917d404f.png",
+    "static/media/uber_eats.png": "/static/media/uber_eats.6468959d336a18c079e5.png",
+    "index.html": "/index.html",
+    "main.6428b2bb.css.map": "/static/css/main.6428b2bb.css.map",
+    "main.fd62ad27.js.map": "/static/js/main.fd62ad27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6428b2bb.css",
+    "static/js/main.fd62ad27.js"
+  ]
+}
