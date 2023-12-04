@@ -1,8 +1,8 @@
 import React from "react";
-import Header from "./Header";
-import LunchButton from "../components/LunchButton";
-import TakeoutButton from "../components/TakeoutButton";
-import CalButton from "../components/CalButton";
+import Header from "./Template/Header";
+import LunchButton from "./Buttons/LunchButton";
+import TakeoutButton from "./Buttons/TakeoutButton";
+import CalButton from "./Buttons/CalButton";
 // import Footer from "../components/Footer";
 
 

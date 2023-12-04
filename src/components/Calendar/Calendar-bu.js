@@ -1,6 +1,6 @@
 import React from "react";
 import Swal from "sweetalert2";
-import Header from "../Header";
+import Header from "../Template/Header";
 import Home from "../Home";
 import { Link } from "react-router-dom";
 import { showAlerts } from "../../services/Meals.js";

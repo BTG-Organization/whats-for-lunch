@@ -1,6 +1,6 @@
 import React from "react";
 import Swal from "sweetalert2";
-import { showAlerts } from "../services/Meals.js";
+import { showAlerts } from "../../services/Meals.js";
 
 const LunchButton = () => {
   let date = () => new Date().getDate();

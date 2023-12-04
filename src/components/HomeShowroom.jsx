@@ -1,9 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import Envelope from "../images/envelope.png";
 import Showroom from "../images/small_yellow_showroom_icon.png";
 import Home from "./Home";
-import Email from './Email';
 
 const HomeShowroom = () => {
   return (

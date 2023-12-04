@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Swal from "sweetalert2";
-import { getCurrentMonth, getColumnHeaders, getDayByIndex } from "../utils/getCalendarInfo";
+import { getCurrentMonth, getColumnHeaders } from "../utils/getCalendarInfo";
 import Home from "../Home";
 import { Link } from "react-router-dom";
 import { showAlerts } from "../../services/Meals";
