@@ -18,9 +18,10 @@ table {
 body {
   font-family: "Ubuntu-Italic", "Lucida Sans", helvetica, sans;
   background-image: url("images/hansel.jpg");
-  /* background-position: center; */
-  /* background-size: cover; */
-  background-size: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 .logo-header {
@@ -323,9 +324,8 @@ table {
 
 .takeouts-page {
   background-color: rgba(249, 246, 246, 0.728) !important;
-  background-size: 100% 100% !important;
-  padding-bottom: 470px;
   padding-top: 10px;
+  height: calc(100vh - 10px);
 }
 
 .other-food {
@@ -396,13 +396,6 @@ table {
 }
 
 @media (min-width: 768px) {
-  body {
-    background-image: url("images/wfl_unsplash_desktop_edit_louis_hansel.jpg");
-    background-position: center top;
-    background-size: cover;
-    background-size: 100%;
-    background-repeat: no-repeat;
-  }
   
   .other-food {
     display: flex;
@@ -415,12 +408,3 @@ table {
     column-gap: 100px;
   }
 }
-
-/* @media (min-width: 990px) {
-  body {
-    background-position: center top;
-    background-size: cover;
-    background-size: 100%;
-    background-repeat: no-repeat;
-  }
-} */
